@@ -21,4 +21,3 @@
 
 ![Snake animation](https://github.com/BarbaraFrezin/BarbaraFrezin/blob/main/.github/workflows/main.yml)
 
-
